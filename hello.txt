@@ -29,7 +29,4 @@
 你好,尚硅谷
 你好,尚硅谷
 你好,尚硅谷
-java
-mysql
-js
-docker
+
